@@ -2,10 +2,10 @@
 
 ## 1. Team Information
 
-- Vaibhav R
-  SRN: PES2UG24CS664
-- Vikas N
-  SRN: PES2UG24CS668
+- S Shreyas Kumar
+  SRN: PES2UG24CS656
+- Raksha
+  SRN: PES2UG24CS652
 
 ---
 
